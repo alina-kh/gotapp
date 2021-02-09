@@ -1,1 +1,1 @@
-## Учебный проект по React.js [Game of Thrones DB]
+## практика к курсу js, react
